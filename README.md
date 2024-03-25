@@ -1,4 +1,5 @@
 # BuildSync
+## Authentication level for access
 
 → Manager
 
