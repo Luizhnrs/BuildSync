@@ -1,29 +1,28 @@
 # BuildSync
 
-→ Gerente
+→ Manager
 
-1. **Cadastrar Produtos**: O Gerente estará habilitado a inserir novos produtos no sistema, garantindo que o catálogo esteja sempre atualizado e refletindo o estoque disponível.
-2. **Liberar Descontos**: Será responsável por conceder descontos conforme necessário, proporcionando flexibilidade na estratégia de preços e promoções.
-3. **Estornar Compras**: Terá a capacidade de reverter transações de compra, garantindo um processo eficaz para lidar com eventuais erros ou situações de devolução.
-4. **Cadastrar Clientes**: Poderá cadastrar novos clientes no sistema, mantendo um registro organizado e atualizado da base de consumidores.
-5. **Realizar Vendas**: Estará autorizado a realizar vendas diretamente, agilizando o processo de transação e atendimento ao cliente.
-6. **Emitir Relatórios**: Terá acesso para gerar relatórios pertinentes ao desempenho do negócio, análise de vendas, estoque, entre outros, auxiliando na tomada de decisões estratégicas.
-7. **Realizar Orçamentos**: Será capaz de elaborar orçamentos para clientes, fornecendo informações detalhadas sobre produtos e serviços, visando fechar negócios de forma eficaz.
-8. **Criar Etiquetas de Produtos**: Responsável por gerar etiquetas para os produtos, facilitando a identificação e organização no estoque e no ponto de venda.
-9. **Liberar Crédito**: Terá autoridade para conceder crédito aos clientes, seguindo políticas estabelecidas pela empresa e garantindo uma abordagem equilibrada em relação a questões financeiras.
-10. **Aceitar Devolução**: Estará apto a aceitar devoluções de produtos, seguindo os procedimentos estabelecidos, garantindo a satisfação do cliente e a integridade do processo de vendas.
+    Register Products: The Manager will be able to input new products into the system, ensuring that the catalog is always up-to-date and reflecting available stock.
+    Authorize Discounts: They will be responsible for granting discounts as necessary, providing flexibility in pricing strategies and promotions.
+    Reverse Purchases: They will have the ability to reverse purchase transactions, ensuring an effective process for handling any errors or return situations.
+    Register Customers: They can register new customers into the system, maintaining an organized and updated record of the customer base.
+    Perform Sales: They are authorized to directly conduct sales, streamlining the transaction process and customer service.
+    Generate Reports: They will have access to generate reports relevant to business performance, sales analysis, inventory, among others, aiding in strategic decision-making.
+    Create Product Labels: Responsible for generating labels for products, facilitating identification and organization in both inventory and point of sale.
+    Authorize Credit: They have the authority to grant credit to customers, following established company policies and ensuring a balanced approach to financial matters.
+    Accept Returns: They are able to accept product returns, following established procedures, ensuring customer satisfaction, and the integrity of the sales process.
 
-→ Vendedor
+→ Salesperson
 
-1. **Cadastrar Cliente**: Capacidade de inserir novos clientes no sistema, facilitando o registro e gerenciamento da base de clientes.
-2. **Realizar Venda**: Responsável por conduzir transações de venda, garantindo um processo eficiente e satisfatório para o cliente.
-3. **Consultar Estoque**: Permissão para verificar o nível de estoque dos produtos disponíveis, auxiliando na gestão de inventário e na oferta de produtos aos clientes.
-4. **Sinalizar para o Gerente**: Capacidade de comunicar ao Gerente informações relevantes, como solicitações especiais dos clientes ou problemas identificados durante o atendimento.
-5. **Ver Comissões**: Autorização para acessar informações sobre as comissões geradas a partir das vendas realizadas, fornecendo visibilidade sobre o desempenho financeiro individual.
-6. **Realizar Orçamento**: Habilidade de elaborar orçamentos para clientes, apresentando detalhes sobre produtos e preços, contribuindo para o processo de vendas.
+    Register Customer: Capable of adding new customers to the system, facilitating customer base registration and management.
+    Conduct Sales: Responsible for conducting sales transactions, ensuring an efficient and satisfactory process for the customer.
+    Check Inventory: Permission to check the stock level of available products, assisting in inventory management and product offerings to customers.
+    Signal to Manager: Ability to communicate relevant information to the Manager, such as customer special requests or issues identified during service.
+    View Commissions: Authorized to access information regarding commissions generated from sales, providing visibility into individual financial performance.
+    Create Quotes: Skillful in creating quotes for customers, providing detailed information about products and prices, contributing to the sales process.
 
-→ Caixa
+→ Cashier
 
-1. **Abrir Caixa**: Capacidade de iniciar o procedimento de abertura do caixa, preparando-o para as transações do dia.
-2. **Fechar Caixa**: Autorização para encerrar o expediente do caixa, realizando os procedimentos necessários de contagem de valores e registro de informações para finalização do turno.
-3. **Finalizar Compra**: Responsável por concluir transações de compra, garantindo que o processo de pagamento seja concluído de maneira precisa e eficiente para o cliente.
+    Open Cash Register: Ability to initiate the process of opening the cash register, preparing it for daily transactions.
+    Close Cash Register: Authorization to end the cashier's shift, performing necessary procedures for counting values and registering information to finalize the shift.
+    Complete Purchase: Responsible for completing purchase transactions, ensuring that the payment process is accurately and efficiently concluded for the customer.
